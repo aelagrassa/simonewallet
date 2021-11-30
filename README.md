@@ -37,3 +37,12 @@ Compile the wallet
 ```
 make
 ```
+The wallet is now compiled and ready for use
+## Using the GUI Wallet on Ubuntu ##
+Once you have finished compiling you may launch the wallet from your terminal in a GUI session. Navigate to 
+```
+simonewallet/build
+```
+Launch the GUI wallet
+```
+./Simone
