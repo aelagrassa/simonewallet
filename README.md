@@ -1,6 +1,6 @@
 # Installing the GUI Wallet #
 
-Simone GUI wallet is currently only available for Linux distributions. There are no premade packages and the GUI wallet must be compiled from source. The node software must be installed before attempting to install the GUI wallet. For directions on installing the node software please check [here](https://github.com/aelagrassa/simone)
+Simone GUI wallet is currently only available for Linux distributions. There are no premade packages and the GUI wallet must be compiled from source. The node software must be installed before attempting to install the GUI wallet. For directions on installing the node software please check [the simone readme](https://github.com/aelagrassa/simone).
 
 ## Installing the GUI Wallet on Ubuntu ##
 
