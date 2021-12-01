@@ -10,15 +10,19 @@ The following steps have been tested and confirmed to work on the following Ubun
 
 Install the required software
 ```
-sudo apt-get install qt5-default
+sudo apt install qt5-default
 ```
 In the **directory your simone install directory is in,** clone simonewallet. Example:
 - /home
-  - /user
+  - **/user**
     - /simone
     - /simonewallet
 ```
 git clone https://github.com/aelagrassa/simonewallet
+```
+Change to the simonewallet directory
+```
+cd simonewallet
 ```
 Create a symlink for sources to reference
 ```
